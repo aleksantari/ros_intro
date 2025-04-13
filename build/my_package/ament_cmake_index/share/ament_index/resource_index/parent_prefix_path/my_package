@@ -1,1 +1,1 @@
-/home/aleksantari/ros2_ws/install/my_robot_controller:/opt/ros/humble
+/home/aleksantari/ros2_robosub/install/my_package:/home/aleksantari/ros2_ws/install/my_robot_controller:/opt/ros/humble
